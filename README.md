@@ -1,1 +1,1 @@
-# php-pdo-registration-system
+# PHP PDO registration system
