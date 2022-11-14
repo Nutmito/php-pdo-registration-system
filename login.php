@@ -35,7 +35,7 @@
       
                   <div class="col-sm-6">
                     <label for="lastName" class="form-label">รหัสผ่าน</label>
-                    <input type="text" class="form-control" id="lastName" placeholder="" value="" required="">
+                    <input type="password" class="form-control" id="lastName" placeholder="" value="" required="">
                     <div class="invalid-feedback">
                     กรุณากรอกข้อมูล!
                     </div>
