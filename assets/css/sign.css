@@ -1,0 +1,16 @@
+body {
+    margin: 60px;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: whitesmoke;
+  }
+  
+  .form-signin {
+    max-width: 330px;
+    padding: 15px;
+  }
+  
+  .form-signin input {
+    margin-bottom: 10px;
+  }

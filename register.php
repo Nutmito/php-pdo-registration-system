@@ -11,28 +11,8 @@
     <title><?php echo $title ?></title>
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <script src="assets/js/bootstrap.bundle.js"></script>
+    <link rel="stylesheet" href="assets/css/sign.css">
 </head>
-<style>
-
-body {
-  margin: 60px;
-  align-items: center;
-  padding-top: 40px;
-  padding-bottom: 40px;
-  background-color: whitesmoke;
-}
-
-.form-signin {
-  max-width: 330px;
-  padding: 15px;
-}
-
-.form-signin input {
-  margin-bottom: 10px;
-}
-
-
-</style>
 <body>
 
 <main class="text-center form-signin w-100 m-auto">
