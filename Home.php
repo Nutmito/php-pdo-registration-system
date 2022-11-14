@@ -14,6 +14,7 @@
     <title><?php echo $title ?></title>
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <script src="assets/js/bootstrap.bundle.js"></script>
+    <link rel="icon" href="favicon.png">
     
 </head>
 <body>

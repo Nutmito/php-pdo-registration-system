@@ -1,0 +1,11 @@
+@import 'https://fonts.googleapis.com/css2?family=Kanit:wght@100;300;400&display=swap';
+body {
+    background: url();
+    font-family:kanit,sans-serif;
+    background:#ddd;
+    background:linear-gradient(0deg,rgb(226,226,226) 0%,rgba(245,245,245,1) 49%);
+}
+
+.container {
+    max-width: 960px;
+  }
